@@ -8,7 +8,7 @@
 
     - HTML
     - CSS
-    - JAVASCRIPT
+    - 
 
 ## Time duration to build this project?
 
